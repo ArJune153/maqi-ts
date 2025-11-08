@@ -6,13 +6,9 @@
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
     </div>
     <div class="button-container">
-    <a href="https://lin.ee/i5LCvGl" class="custom-button1">
-        <i class="fas fa-user-plus"></i>  <!-- ไอคอนสมัครสมาชิก -->
+    <a href="https://lin.ee/lzRMVzO" class="custom-button1">
+        ✨
         สมัครสมาชิก
-    </a>
-    <a href="https://lin.ee/i5LCvGl" class="custom-button2">
-        <i class="fas fa-comments"></i>  <!-- ไอคอนติดต่อแอดมิน -->
-        ติดต่อแอดมิน
     </a>
 </div>
 
@@ -27,7 +23,7 @@
         <div class="card-container">
     <!-- Card 1 -->
     <div class="card">
-      <a href="https://lin.ee/i5LCvGl">
+      <a href="https://lin.ee/lzRMVzO">
         <div class="card-description">
           <img class="img-game1"/>
           <!-- เพิ่มข้อความ "มาแรง" ที่มุมขวาบน -->
@@ -39,7 +35,7 @@
   </div>
     
     <div class="card">
-      <a href="https://lin.ee/i5LCvGl">
+      <a href="https://lin.ee/lzRMVzO">
         <div class="card-description">
           <img class="img-game2"/>
           <div class="badge">HOT</div>
@@ -50,7 +46,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/i5LCvGl">
+      <a href="https://lin.ee/lzRMVzO">
         <div class="card-description">
           <img class="img-game3" />
           <div class="badge">HOT</div>
@@ -61,7 +57,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/i5LCvGl">
+      <a href="https://lin.ee/lzRMVzO">
         <div class="card-description">
           <img class="img-game4"/>
           <div class="badge">HOT</div>
@@ -72,7 +68,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/i5LCvGl">
+      <a href="https://lin.ee/lzRMVzO">
         <div class="card-description">
           <img class="img-game5"/>
           <div class="badge">HOT</div>
@@ -83,7 +79,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/i5LCvGl">
+      <a href="https://lin.ee/lzRMVzO">
         <div class="card-description">
           <img class="img-game6" />
           <div class="badge">HOT</div>
@@ -564,11 +560,11 @@ body {
 .custom-button1 {
   background-color: gold; /* สีทอง */
   color: black; /* ตัวหนังสือสีดำ */
-  padding: 20px 40px; /* ขยายขนาดปุ่ม */
+  padding: 25px 60px; /* ขยายขนาดปุ่ม */
   font-size: 18px; /* ขยายขนาดตัวหนังสือ */
   font-weight: bold;
   border: none;
-  border-radius: 30px; /* ทำมุมมน */
+  border-radius: 40px; /* ทำมุมมน */
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
   display: flex;

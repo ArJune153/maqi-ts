@@ -19,6 +19,12 @@
   </div>
   </div>
 
+  <div class="newyear-promo-con">
+      <div class="newyear-promo" >
+          <img :src="require('@/assets/photo_6201835310191152211_y.jpg')"/>
+      </div>
+    </div>
+
     <span class="text4">🔥เปอร์เซ็นต์เกมแตกสูง</span>
         <div class="card-container">
     <!-- Card 1 -->
@@ -1157,5 +1163,32 @@ body {
         transform: translateY(0);
         opacity: 1;
       }
+    }
+
+     .newyear-promo-con {
+      position: relative;
+      width: 100%;
+      max-width: 600px; /* ปรับตามความต้องการ */
+      height: 60%;
+      margin: auto;
+      margin-top: 2.25rem;
+      margin-bottom: 2.25rem;
+      overflow: hidden;
+      border-radius: 15px;
+      border: 2px solid rgb(0, 255, 98);
+      box-shadow: 0 0 20px rgba(0, 255, 76, 0.6);
+    }
+
+    .newyear-promo {
+      min-width: 100%;
+      height: 60%;
+      position: relative;
+    }
+
+    .newyear-promo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 15px;
     }
 </style>
